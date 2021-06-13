@@ -1,0 +1,18 @@
+{
+  "name": "retweet-bot",
+  "version": "1.0.1",
+  "description": "I'm an experimental dev bot. I RETWEET EVERYTHING UNDER programming Made with python 🐍 Follow for all programming knowledge on Twitter 🚀",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Twitter",
+    "BOT"
+  ],
+  "author": "Naveen Kolla",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
